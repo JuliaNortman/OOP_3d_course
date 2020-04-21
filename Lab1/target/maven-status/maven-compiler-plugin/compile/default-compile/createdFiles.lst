@@ -1,0 +1,10 @@
+hedgehoggame\gamelogic\Direction.class
+hedgehoggame\serverside\messages\MessageMoveDecoder.class
+hedgehoggame\gamelogic\Game$1.class
+hedgehoggame\gamelogic\Game.class
+hedgehoggame\serverside\messages\MessageField.class
+hedgehoggame\gamelogic\Cell.class
+hedgehoggame\serverside\messages\MessageFieldEncoder.class
+hedgehoggame\gamelogic\Pair.class
+hedgehoggame\serverside\ServerGame.class
+hedgehoggame\serverside\messages\MessageMove.class
